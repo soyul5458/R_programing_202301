@@ -74,7 +74,8 @@
 
 통계데이터센터는 이용자가 행정통계자료 및 민간자료를 편리하게 이용하고, 연계·융합이 가능하도록 구축된 데이터 플랫폼이다.
 
-*데이터 이용 수수료 납부*
+*데이터 이용 수수료 납부*  
+
 ​
 
 5. [마이크로데이터서비스](http://mdss.kostat.go.kr)
@@ -87,7 +88,8 @@
 
 전국민의 진료정보와 의료기관, 제약회사, 유관기관 등 다양한 경로에서 수집한 정보를 분석·정제한 데이터이다.
 
-*데이터 이용 수수료 납부*
+*데이터 이용 수수료 납부*  
+
 
 ​
 
@@ -95,7 +97,8 @@
 
 국민건강정보 자료를 활용한 정책 및 학술연구 등을 지원하기 위한 데이터 저장 플랫폼이다.
 
-*데이터 이용 수수료 납부*
+*데이터 이용 수수료 납부*  
+
   
 
 
@@ -127,11 +130,11 @@
 
 ​
 
-추가로 국내 공공 데이터 포털을 정리한 google doc 파일이 있어 공유합니다. 
+*추가로 국내 공공 데이터 포털을 정리한 google doc 파일이 있어 공유합니다.* 
 
-https://docs.google.com/spreadsheets/d/13Z4aKlOlLvYYipa73db-7Odf5JMGdm3k75s-0wXomEc/htmlview#gid=0
+*https://docs.google.com/spreadsheets/d/13Z4aKlOlLvYYipa73db-7Odf5JMGdm3k75s-0wXomEc/htmlview#gid=0*
 
-출처 : woons.2016@gmail.com(배여운)
+*출처 : woons.2016@gmail.com(배여운)*
 
 ​
 
@@ -153,6 +156,6 @@ Google Dataset Search는 웹 상의 다양한 데이터셋을 검색할 수 있�
 
 ​
 
-3. [Data.gov](www.data.gov):
+3. [Data.gov](www.data.gov)
 
 미국 정부에서 운영하는 공공 데이터 포털로, 다양한 분야에서 수집된 정부 데이터를 제공한다. 이곳에서는 사회, 건강, 교육, 경제 등 다양한 주제의 데이터를 찾을 수 있다.
