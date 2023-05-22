@@ -9,7 +9,9 @@
 * 데이터 제공 사이트
     * 국내
     * 국외
-
+  
+<br>
+  
 
 ## 데이터 사이언스 대회 사이트
 
@@ -17,19 +19,19 @@
 
 ​
 
-1. Kaggle (캐글)
+1. [Kaggle (캐글)](https://www.kaggle.com/)
 
 데이터 사이언스 대회 중 가장 크고 유명한 사이트이다. 전 세계에서 가장 유명한 데이터 사이언스 경진대회 플랫폼으로 알려져 있다.
 
 ​
 
-2. Dacon (데이콘)
+2. [Dacon (데이콘)](https://dacon.io/)
 
 국내에서 최초로 개발한 인공지능 경진대회 플랫폼이다. 
 
 ​
 
-3. 통계데이터센터  
+3. [통계데이터센터](https://data.kostat.go.kr/sbchome/index.do)  
 
 통계데이터센터는 이용자가 행정통계자료 및 민간자료를 편리하게 이용하고, 연계·융합이 가능하도록 구축된 데이터 플랫폼이다. 즉, 경진대회를 위한 플랫폼은 아니지만 매년 통계데이터 활용대회가 개최된다. 현재 대회 참가 접수를 받고 있다.
 
@@ -37,6 +39,7 @@
 
 (대회기간) ‘23. 5. 11.(목) ~ 8. 29.(화)
 
+<br>
 
 ## 데이터 제공 사이트
 
@@ -62,9 +65,8 @@
 
 3. [KOSIS 국가통계 포털](https://kosis.kr/index/index.do)
 
-국가통계포털(KOSIS, Korean Statistical Information Service)은 국내·국제·북한의 주요 통계를 한 곳에 모아 이용자가 원하는 통계를 한 번에 찾을 수 있도록 통계청이 제공하는 One-Stop 통계 서비스이다. 
-
-    -  [데이터 다운로드 방법 참고](https://m.boostcourse.org/ds112/lecture/59899?isDesc=false)
+국가통계포털(KOSIS, Korean Statistical Information Service)은 국내·국제·북한의 주요 통계를 한 곳에 모아 이용자가 원하는 통계를 한 번에 찾을 수 있도록 통계청이 제공하는 One-Stop 통계 서비스이다.   
+   [데이터 다운로드 방법 참고](https://m.boostcourse.org/ds112/lecture/59899?isDesc=false)
 
 ​
 
@@ -72,8 +74,7 @@
 
 통계데이터센터는 이용자가 행정통계자료 및 민간자료를 편리하게 이용하고, 연계·융합이 가능하도록 구축된 데이터 플랫폼이다.
 
-데이터 이용 수수료 납부
-
+<span style ="color:green"> 데이터 이용 수수료 납부 </span>
 ​
 
 5. [마이크로데이터서비스](http://mdss.kostat.go.kr)
@@ -86,7 +87,7 @@
 
 전국민의 진료정보와 의료기관, 제약회사, 유관기관 등 다양한 경로에서 수집한 정보를 분석·정제한 데이터이다.
 
-데이터 이용 수수료 납부
+<span style ="color:green"> 데이터 이용 수수료 납부 </span>
 
 ​
 
@@ -94,11 +95,11 @@
 
 국민건강정보 자료를 활용한 정책 및 학술연구 등을 지원하기 위한 데이터 저장 플랫폼이다.
 
-데이터 이용 수수료 납부
+<span style ="color:green"> 데이터 이용 수수료 납부 </span>
 
-​
 
-8. [한국전력공사 KPX](https://epsis.kpx.or.kr/)​
+
+8. [한국전력공사 KPX](https://epsis.kpx.or.kr/)
 
 전력거래소는 전력통계정보시스템을 통하여 발전설비현황, 송변배전설비 현황, 전력시장 통계, 전력판매 현황, 상용자가발전 현황 등의 전력산업 통계를 제공하고 있다.
 
@@ -106,19 +107,19 @@
 
 [ 지표자료]
 
-1. e-나라지표 : 국가주요지표 (http://www.index.go.kr)
+1. [e-나라지표 : 국가주요지표](http://www.index.go.kr)
 
 국정 전문 분야에 대한 각종 국정통계에 대해 정확한 통계와 추이, 통계분석등을 제공
 
 ​
 
-2. 통계지리정보 (http://sgis.kostat.go.kr)
+2. [통계지리정보](http://sgis.kostat.go.kr)
 
 국가통계 자료를 지도 위에서 쉽게 이용할 수 있도록 제공고 있는 서비스
 
 ​
 
-3. 한국은행 경제통계시스템 (http://ecos.bok.go.kr)
+3. [한국은행 경제통계시스템](http://ecos.bok.go.kr)
 
 국민소득, 물가 등과 같은 경제 통계에 관한 각종 자료들을 시계열로 제공
 
@@ -140,18 +141,18 @@ https://docs.google.com/spreadsheets/d/13Z4aKlOlLvYYipa73db-7Odf5JMGdm3k75s-0wXo
 
 국외
 
-1. UCI Machine Learning Repository (archive.ics.uci.edu/ml/index.php)
+1. [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
 
 UCI Machine Learning Repository는 머신러닝 연구에 유용한 데이터셋을 제공하는 신뢰할 수 있는 사이트이다.
 
 ​
 
-2. Google Dataset Search (datasetsearch.research.google.com)
+2. [Google Dataset Search](datasetsearch.research.google.com)
 
 Google Dataset Search는 웹 상의 다양한 데이터셋을 검색할 수 있는 도구이다. 데이터 사이언티스트들은 관심 있는 주제나 도메인에 관련된 데이터를 찾을 때 활용할 수 있다.
 
 ​
 
-3. Data.gov (www.data.gov):
+3. [Data.gov](www.data.gov):
 
 미국 정부에서 운영하는 공공 데이터 포털로, 다양한 분야에서 수집된 정부 데이터를 제공한다. 이곳에서는 사회, 건강, 교육, 경제 등 다양한 주제의 데이터를 찾을 수 있다.
