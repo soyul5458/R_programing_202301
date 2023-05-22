@@ -95,8 +95,9 @@
 
 국민건강정보 자료를 활용한 정책 및 학술연구 등을 지원하기 위한 데이터 저장 플랫폼이다.
 
-<span style ="color:green"> 데이터 이용 수수료 납부 </span>
-
+<span style ="color:green"> 데이터 이용 수수료 납부 </span>  
+<span style="color:green"> 글씨색 변경 </span>
+  
 
 
 8. [한국전력공사 KPX](https://epsis.kpx.or.kr/)
@@ -105,7 +106,7 @@
 
 ​
 
-[ 지표자료]
+#### [ 지표자료]
 
 1. [e-나라지표 : 국가주요지표](http://www.index.go.kr)
 
@@ -139,7 +140,7 @@ https://docs.google.com/spreadsheets/d/13Z4aKlOlLvYYipa73db-7Odf5JMGdm3k75s-0wXo
 
 ​
 
-국외
+### 국외
 
 1. [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
 
