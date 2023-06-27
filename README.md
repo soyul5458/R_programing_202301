@@ -11,4 +11,5 @@
 1. 파일명 일괄 변경하기
      - 변경할 폴더 이동
      - 상단 폴더 주소에 cmd 입력하고 엔터
-     - `ren *이름*.xlsx *이름.xlsx`
+     - `ren *이름*.xlsx *이름.xlsx or ren ???이름*.xlsx ???이름.xlsx`
+        
